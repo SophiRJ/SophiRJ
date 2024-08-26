@@ -1,7 +1,5 @@
 # Repositorio principal Sofia Rojas
 
-![imagen de portada](recursos/gatitos.jpg)
-
 ## Descripcion
 Breve descripcion del proyecto, objetivos y funcionalidades principales.
 
