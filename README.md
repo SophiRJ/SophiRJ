@@ -1,34 +1,49 @@
-# 👋 Hola, soy Sofia Rojas
+### 👋 ¡Hola, soy Sofia Rojas!
 
-### Sobre mí
-- 💻 **Estudiante de Desarrollo de Aplicaciones Multiplataforma @ UAX**
-- 🎓 **IBM Student**
-- 💡 Apasionada por el **Desarrollo Web**.
+```diff
++ 💻 Desarrolladora en formación con pasión por el código y la innovación.
++ 🚀 Siempre aprendiendo y explorando nuevas tecnologías.
+```
+---
+
+## 🚀 Sobre mí
+🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma @ UAX**  
+📜 **IBM Student | Certificaciones en IA y Desarrollo Web**  
+💡 Apasionada por el **Desarrollo Web**.
 
 ---
 
-### 🚀 Lenguajes y Herramientas
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+## 🛠️ Lenguajes y Herramientas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+</div>
 
 ---
 
-### 🌐 Redes Sociales
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/sophy_nrojas)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sof%C3%ADa-rojas-jorge-3aab61306/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sofiarojasc5@gmail.com)
+## 🌐 Conéctate conmigo
+📩 **Email:** [sofiarojasc5@gmail.com](mailto:sofiarojasc5@gmail.com)  
+🔗 **LinkedIn:** [Sofía Rojas Jorge](https://www.linkedin.com/in/sof%C3%ADa-rojas-jorge-3aab61306/)  
+📸 **Instagram:** [@sophy_nrojas](https://www.instagram.com/sophy_nrojas)  
 
 ---
 
-### 📜 Certificaciones
-- [**Web development with Python-IBM**](https://www.credly.com/badges/83b28906-8dc1-4fbd-b1b9-65d33477b236/linked_in_profile): Obtenida en Noviembre 2024.
-- [**Artificial Intelligence Fundamentals-IBM**](https://www.credly.com/badges/ee223f61-7689-4d59-a716-b7420f7ba25d/linked_in_profile): Obtenida en Julio 2024.
+## 📜 Certificaciones
+✔️ [**Web Development with Python - IBM**](https://www.credly.com/badges/83b28906-8dc1-4fbd-b1b9-65d33477b236/linked_in_profile) (Noviembre 2024)  
+✔️ [**Artificial Intelligence Fundamentals - IBM**](https://www.credly.com/badges/ee223f61-7689-4d59-a716-b7420f7ba25d/linked_in_profile) (Julio 2024)  
 
+---
 
-🚀 Fun Fact
+## 🚀 Fun Fact
+> 💡 *"El código es como el humor: si tienes que explicarlo, no es tan bueno."* 😆
 
-💡 "El código es como el humor: si tienes que explicarlo, no es tan bueno." 😆
+---
+
+### 🎯 Mi filosofía
+```diff
+- "El aprendizaje nunca termina, y la creatividad no tiene límites."
 
 
