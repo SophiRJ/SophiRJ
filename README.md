@@ -27,3 +27,8 @@
 - [**Artificial Intelligence Fundamentals-IBM**](https://www.credly.com/badges/ee223f61-7689-4d59-a716-b7420f7ba25d/linked_in_profile): Obtenida en Julio 2024.
 
 
+🚀 Fun Fact
+
+💡 "El código es como el humor: si tienes que explicarlo, no es tan bueno." 😆
+
+
