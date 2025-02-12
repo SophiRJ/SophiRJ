@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma @ UAX**  
-📜 **IBM Student | Certificaciones en IA y Desarrollo Web**  
+📜 **IBM Student | Certificaciones en Python y Desarrollo Web**  
 💡 Apasionada por el **Desarrollo Web**.
 
 ---
@@ -18,8 +18,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 </div>
 
 ---
