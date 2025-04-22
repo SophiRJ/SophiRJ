@@ -9,7 +9,7 @@
 ## 🚀 Sobre mí
 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma @ UAX**  
 📜 **IBM Student | Certificaciones en Python y Desarrollo Web**  
-💡 Apasionada por el **Desarrollo Web**.
+💡 Apasionada por el **Desarrollo Movil**.
 
 ---
 
