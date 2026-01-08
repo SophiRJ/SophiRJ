@@ -1,47 +1,79 @@
-### 👋 ¡Hola, soy Sofia Rojas!
+# 👋 ¡Hola, soy Sofía Rojas!
 
 ```diff
-+ 💻 Desarrolladora en formación con pasión por el código y la innovación.
-+ 🚀 Siempre aprendiendo y explorando nuevas tecnologías.
++ 💻 Desarrolladora Web en formación, enfocada en backend y arquitectura web.
++ 🚀 Construyendo proyectos reales con ASP.NET Core, bases de datos y tecnologías cloud.
 ```
+
 ---
 
 ## 🚀 Sobre mí
-🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma @ UAX**  
-📜 **IBM Student | Certificaciones en Python y Desarrollo Web**  
-💡 Apasionada por el **Desarrollo Movil**.
+
+🎓 **Estudiante del Máster en Desarrollo Web y Arquitecturas Cloud @ Tajamar**  
+🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma @ UAX**
+
+Actualmente me especializo en **desarrollo web con .NET**, trabajando tanto la lógica de negocio como el despliegue de aplicaciones en entornos reales.  
+Me interesa especialmente el **backend**, la arquitectura de aplicaciones y los procesos de despliegue.
 
 ---
 
-## 🛠️ Lenguajes y Herramientas
+## 🛠️ Tecnologías y herramientas
 
+### Backend & Web
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge" />
+</div>
+
+### Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</div>
+
+### Bases de datos & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+</div>
+
+### Otros lenguajes
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 </div>
 
 ---
 
-## 🌐 Conéctate conmigo
-📩 **Email:** [sofiarojasc5@gmail.com](mailto:sofiarojasc5@gmail.com)  
-🔗 **LinkedIn:** [Sofía Rojas Jorge](https://www.linkedin.com/in/sof%C3%ADa-rojas-jorge-3aab61306/)  
-📸 **Instagram:** [@sophy_nrojas](https://www.instagram.com/sophy_nrojas)  
+## 📌 Proyectos destacados
+
+🎬 **CineMaster Tickets**  
+Plataforma de gestión cinematográfica desarrollada con **ASP.NET Core MVC**, que simula el funcionamiento completo de una empresa de cines.  
+Incluye panel administrativo, sistema de fidelización, reserva de butacas y generación de tickets digitales.  
+➡️ Aplicación containerizada con **Docker** y desplegada en **Azure**.
+
+---
+
+## 🌐 Conecta conmigo
+
+📩 **Email:** sofiarojasc5@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sof%C3%ADa-rojas-jorge-3aab61306/
 
 ---
 
 ## 📜 Certificaciones
-✔️ [**Web Development with Python - IBM**](https://www.credly.com/badges/83b28906-8dc1-4fbd-b1b9-65d33477b236/linked_in_profile) (Noviembre 2024)  
-✔️ [**Artificial Intelligence Fundamentals - IBM**](https://www.credly.com/badges/ee223f61-7689-4d59-a716-b7420f7ba25d/linked_in_profile) (Julio 2024)  
+
+✔️ **Web Development with Python – IBM** (2024)  
+✔️ **Artificial Intelligence Fundamentals – IBM** (2024)
 
 ---
 
-## 🚀 Fun Fact
-> 💡 *"El código es como el humor: si tienes que explicarlo, no es tan bueno."* 😆
+## 🎯 Mi filosofía
 
----
-
-### 🎯 Mi filosofía
 ```diff
-- "El aprendizaje nunca termina, y la creatividad no tiene límites."
-
++ "Aprender haciendo, mejorar con cada proyecto y no dejar de explorar."
+```
 
