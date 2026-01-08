@@ -60,7 +60,7 @@ Incluye panel administrativo, sistema de fidelización, reserva de butacas y gen
 ## 🌐 Conecta conmigo
 
 📩 **Email:** sofiarojasc5@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sof%C3%ADa-rojas-jorge-3aab61306/
+🔗 **LinkedIn:** [https://www.linkedin.com/in/sof%C3%ADa-rojas-jorge-3aab61306/](https://www.linkedin.com/in/sofia-rojas-jorge-3aab61306/)
 
 ---
 
