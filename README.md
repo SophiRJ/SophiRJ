@@ -1,25 +1,26 @@
-# 👋 ¡Hola, soy Sofía Rojas!
+# 👋 Hi, I'm Sofía Rojas!
 
 ```diff
-+ 💻 Desarrolladora Web en formación, enfocada en backend y arquitectura web.
-+ 🚀 Construyendo proyectos reales con ASP.NET Core, bases de datos y tecnologías cloud.
++ 💻 Web Developer in training, focused on full-stack development and web architecture.
++ 🚀 Building real-world projects with ASP.NET Core, databases, and cloud technologies.
 ```
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-🎓 **Estudiante del Máster en Desarrollo Web y Arquitecturas Cloud @ Tajamar**  
-🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma @ UAX**
+🎓 **Master’s Student in Web Development & Cloud Architectures @ Tajamar**
+🎓 **Higher Technician in Multiplatform Application Development @ UAX**
 
-Actualmente me especializo en **desarrollo web con .NET**, trabajando tanto la lógica de negocio como el despliegue de aplicaciones en entornos reales.  
-Me interesa especialmente el **backend**, la arquitectura de aplicaciones y los procesos de despliegue.
+I specialize in **web development with .NET**, working on both **backend and frontend**, from business logic to user-facing features and real-world deployments.
+I’m especially interested in **backend development**, **frontend integration**, **application architecture**, and **cloud-based deployment processes**.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
 ### Backend & Web
+
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
@@ -28,52 +29,66 @@ Me interesa especialmente el **backend**, la arquitectura de aplicaciones y los 
 </div>
 
 ### Frontend
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </div>
 
-### Bases de datos & DevOps
+### Databases & DevOps
+
 <div align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
 </div>
 
-### Otros lenguajes
+### Cloud Platforms
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+</div>
+
+### Other Languages
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 </div>
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
-🎬 **CineMaster Tickets**  
-Plataforma de gestión cinematográfica desarrollada con **ASP.NET Core MVC**, que simula el funcionamiento completo de una empresa de cines.  
-Incluye panel administrativo, sistema de fidelización, reserva de butacas y generación de tickets digitales.  
-➡️ Aplicación containerizada con **Docker** y desplegada en **Azure**.
-
----
-
-## 🌐 Conecta conmigo
-
-📩 **Email:** sofiarojasc5@gmail.com  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/sof%C3%ADa-rojas-jorge-3aab61306/](https://www.linkedin.com/in/sofia-rojas-jorge-3aab61306/)
+🎬 **CineMaster Tickets**
+Cinema management platform developed with **ASP.NET Core MVC**, simulating the complete workflow of a movie theater company.
+Includes an admin panel, loyalty system, seat reservation, and digital ticket generation.
+➡️ Containerized with **Docker** and deployed on **Azure**.
 
 ---
 
-## 📜 Certificaciones
+## 🌐 Connect With Me
 
-✔️ **Web Development with Python – IBM** (2024)  
-✔️ **Artificial Intelligence Fundamentals – IBM** (2024)
+📩 **Email:** [sofiarojasc5@gmail.com](mailto:sofiarojasc5@gmail.com)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/sofia-rojas-jorge-3aab61306/](https://www.linkedin.com/in/sofia-rojas-jorge-3aab61306/)
 
 ---
 
-## 🎯 Mi filosofía
+## 📜 Certifications
+
+✔️ **Web Development with Python – IBM**
+🔗 [https://www.credly.com/](https://www.credly.com/)
+
+✔️ **Working in a Digital World: Professional Skills – IBM**
+🔗 [https://www.credly.com/](https://www.credly.com/)
+
+✔️ **Artificial Intelligence Fundamentals – IBM**
+🔗 [https://www.credly.com/](https://www.credly.com/)
+
+---
+
+## 🎯 My Philosophy
 
 ```diff
-+ "Aprender haciendo, mejorar con cada proyecto y no dejar de explorar."
++ "Learn by building, improve with every project, and never stop exploring."
 ```
-
