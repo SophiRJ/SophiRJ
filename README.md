@@ -10,6 +10,7 @@
 ## 🚀 About Me
 
 🎓 **Master's Degree in Web Development & Cloud Architectures** @ Tajamar
+
 🎓 **Higher Technician in Multiplatform Application Development** @ UAX
 
 Full Stack Developer specialized in the **.NET** ecosystem for backend and **React / Angular** for frontend, with a strong focus on **Cloud Computing (Microsoft Azure & AWS)** — service deployment, administration, and the design of scalable architectures.
